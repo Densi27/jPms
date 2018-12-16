@@ -1,0 +1,7 @@
+{
+  "(DANIEL1,1974-01-01)" : [ "(desery,27)" ],
+  "(DANIEL2,1974-01-01)" : [ "(desery,27)", "(desery,13)" ],
+  "(DANIEL3,1974-01-01)" : [ "(desery,27)", "(desery,13)", "(desery,25)" ],
+  "(DANIEL4,1974-01-01)" : [ "(desery,27)", "(desery,13)", "(desery,25)", "(desery,9)" ],
+  "(DANIEL5,1974-01-01)" : [ "(desery,27)", "(desery,13)", "(desery,25)", "(desery,9)", "(desery,37)" ]
+}
